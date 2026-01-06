@@ -8,7 +8,7 @@
 
     <!-- NuGet Package Metadata -->
     <PackageId>Reka.SDK</PackageId>
-    <Version>0.1.2-beta</Version>
+    <Version>0.1.4-beta</Version>
     <Authors>Frank Boucher (fboucher), Reka</Authors>
     <Company>Reka</Company>
     <Description>Official .NET SDK for Reka AI API - A SDK for integrating Reka's AI APIs into your .NET applications.</Description>
@@ -19,6 +19,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
